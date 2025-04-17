@@ -25,5 +25,3 @@ The plugin performs:
 4. The output will be saved to a file named:
    output.json
 
-
-Made by Shaked Gitta 🤍
